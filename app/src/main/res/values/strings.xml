@@ -1,0 +1,49 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+
+    <!-- Header for name-->
+    <string name = "name"> Name </string>
+    <!-- Header for list of toppings -->
+    <string name = "toppings">Toppings </string>
+
+    <!-- Header for whipped cream-->
+    <string name = "whipped_cream"> Whipped Cream </string>
+
+    <!-- Header for chocolate cream-->
+    <string name = "chocolate"> Chocolate </string>
+
+    <!-- Header for quantity-->
+    <string name = "quantity"> Quantity</string>
+
+    <!-- Header for order-->
+    <string name = "order"> Order </string>
+
+       <!-- Add whip cream? -->
+    <string name ="add_whip_cream">Add whip cream?</string>
+
+    <!-- Add chocolate? -->
+    <string name ="add_chocolate">Add chocolate?</string>
+
+    <!-- Quantity : -->
+    <string name= "quantity_jv"> Quantity :</string>
+
+    <!-- Total : -->
+    <string name= "total_jv"> Total :</string>
+
+
+
+    <!-- Thank you message for the order summary -->
+    <string name ="thank_you">Thank you!</string>
+
+    <!-- Subject for email "Just Java Order for" -->
+
+    <string name="order_summary_email_subject">Just Java Order for<xliff:g id="name" example="Chris">""</xliff:g></string>
+
+
+    <!-- Name for the order summary please preserve-->
+
+    <string name = "order_summary_name"> Name: <xliff:g id= "name" example="Chris">%s</xliff:g></string>
+
+
+
+</resources>
